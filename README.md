@@ -16,4 +16,7 @@ report-thesis
 ├── main.pdf
 └── main.tex 
 ```
+
+## 注意
++ 用`vscode`编译要注意编译顺序为`xelatex-biblatex-xelatex*2`
  
