@@ -1,0 +1,24 @@
+\usepackage{ctex}%中文支持
+\usepackage{graphicx}%插入图片
+\usepackage{color}%字体颜色
+\usepackage{mhchem}%化学方程式
+\usepackage{geometry}%设置页边距
+\usepackage{setspace} %设置行间距
+\usepackage{pdfpages} %导入pdf
+\usepackage{fancyhdr} %设置页眉页码
+\usepackage{times} %设置公式字体Times New Roman
+%\usepackage{mathptmx} 
+\usepackage{fontspec}
+\setmainfont{Times New Roman}%设置公式字体Times New Roman
+\usepackage[style=numeric,sorting=none,backend=biber,defernumbers=true]{biblatex}
+% \bibliography{config/reference.bib}
+\addbibresource{config/reference.bib}%设置参考文献
+\pagestyle{fancy}%设置页眉页脚
+\fancyhf{} % 清空当前页眉和页脚
+%\fancyhead[L]{开题报告}
+\fancyfoot[C]{\thepage} % 设置页码居中
+\renewcommand{\headrulewidth}{0pt} %设置页眉线宽为0
+\renewcommand{\baselinestretch}{2.0}%设置行间距为2.0
+\geometry{a4paper,margin=1in}%设置页边距
+
+\renewcommand{\familydefault}{\rmdefault}%设置公式字体Times New Roman

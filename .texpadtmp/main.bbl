@@ -1,0 +1,285 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{miron2011perpendicular}{article}{}
+      \name{author}{10}{}{%
+        {{hash=727007e470460d4ec9bc5ca60d91dc39}{%
+           family={Miron},
+           familyi={M\bibinitperiod},
+           given={Ioan\bibnamedelima Mihai},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2eb93e95fdf0ef4f78f5d72e798cebc1}{%
+           family={Garello},
+           familyi={G\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9cfa63caba2099b7293c6afe94efb9cb}{%
+           family={Gaudin},
+           familyi={G\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e3ab42cb07411193c399f7e22b8cc8b7}{%
+           family={Zermatten},
+           familyi={Z\bibinitperiod},
+           given={Pierre-Jean},
+           giveni={P\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=30d4937f811f85d184de8566eb7c642b}{%
+           family={Costache},
+           familyi={C\bibinitperiod},
+           given={Marius\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=0f0f48acac453abae14ebef5700e2f91}{%
+           family={Auffret},
+           familyi={A\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=04ba4deee534457c1ce9b5d9a9ce857c}{%
+           family={Bandiera},
+           familyi={B\bibinitperiod},
+           given={Sébastien},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7b585f37b826813ac568fce9ce0447f4}{%
+           family={Rodmacq},
+           familyi={R\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a6caeef70e96672ded84af72b151aee9}{%
+           family={Schuhl},
+           familyi={S\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=02b1e5386b6660bf2d22ecb318a36fdb}{%
+           family={Gambardella},
+           familyi={G\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{c6e293005a6afe729b339556cc9bb0bd}
+      \strng{fullhash}{afa93afc585d30c9c2fdbe773097f416}
+      \strng{bibnamehash}{c6e293005a6afe729b339556cc9bb0bd}
+      \strng{authorbibnamehash}{c6e293005a6afe729b339556cc9bb0bd}
+      \strng{authornamehash}{c6e293005a6afe729b339556cc9bb0bd}
+      \strng{authorfullhash}{afa93afc585d30c9c2fdbe773097f416}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7359}
+      \field{title}{Perpendicular switching of a single ferromagnetic layer induced by in-plane current injection}
+      \field{volume}{476}
+      \field{year}{2011}
+      \field{pages}{189\bibrangedash 193}
+      \range{pages}{5}
+    \endentry
+    \entry{liu2012spin}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9839614d74edff23e9f09e46f2706200}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Luqiao},
+           giveni={L\bibinitperiod}}}%
+        {{hash=550df0f6bfdbb4ad95c77b010b3ba544}{%
+           family={Pai},
+           familyi={P\bibinitperiod},
+           given={Chi-Feng},
+           giveni={C\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=66d548e0e670e107fc4a80dc0c3825b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7cb83119228264c568b3f279c3aed71f}{%
+           family={Tseng},
+           familyi={T\bibinitperiod},
+           given={HW},
+           giveni={H\bibinitperiod}}}%
+        {{hash=61e7795f9a0a87763757e5cf741fca72}{%
+           family={Ralph},
+           familyi={R\bibinitperiod},
+           given={DC},
+           giveni={D\bibinitperiod}}}%
+        {{hash=200e07b47b6c18663db692e26b63220d}{%
+           family={Buhrman},
+           familyi={B\bibinitperiod},
+           given={RA},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{c0d0c028728527d7d7722853349ea718}
+      \strng{fullhash}{503d467807304eaad4d512fd64b38a82}
+      \strng{bibnamehash}{c0d0c028728527d7d7722853349ea718}
+      \strng{authorbibnamehash}{c0d0c028728527d7d7722853349ea718}
+      \strng{authornamehash}{c0d0c028728527d7d7722853349ea718}
+      \strng{authorfullhash}{503d467807304eaad4d512fd64b38a82}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6081}
+      \field{title}{Spin-torque switching with the giant spin Hall effect of tantalum}
+      \field{volume}{336}
+      \field{year}{2012}
+      \field{pages}{555\bibrangedash 558}
+      \range{pages}{4}
+    \endentry
+    \entry{garello2018sot}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=2eb93e95fdf0ef4f78f5d72e798cebc1}{%
+           family={Garello},
+           familyi={G\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=78750cad2fba9ec61d036802f58f4b0f}{%
+           family={Yasin},
+           familyi={Y\bibinitperiod},
+           given={Farrukh},
+           giveni={F\bibinitperiod}}}%
+        {{hash=171f1e73ed3a39e5dab9bbbfc038faec}{%
+           family={Couet},
+           familyi={C\bibinitperiod},
+           given={Sébastien},
+           giveni={S\bibinitperiod}}}%
+        {{hash=49f35447c9dc7d2618f009e26edba714}{%
+           family={Souriau},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=81db88961bd76c8b019a52f2cf28738e}{%
+           family={Swerts},
+           familyi={S\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2396bf47d89532fb90ebd237e03ce4b8}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Siddharth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=50d23851f556760a819333c8a77f0bbd}{%
+           family={Van\bibnamedelima Beek},
+           familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=25788faf276524e90800c2ed1de3d620}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Wonsub},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9e9f7a559945a90000ee91a5b93401d8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Enlong},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4f55aeb407be6e08c356de2a12936014}{%
+           family={Kundu},
+           familyi={K\bibinitperiod},
+           given={Shreya},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0c6e365aed84403b6da8cdbc6719b9af}
+      \strng{fullhash}{0f9db30049824874a9fa9ba88f3e92ae}
+      \strng{bibnamehash}{0c6e365aed84403b6da8cdbc6719b9af}
+      \strng{authorbibnamehash}{0c6e365aed84403b6da8cdbc6719b9af}
+      \strng{authornamehash}{0c6e365aed84403b6da8cdbc6719b9af}
+      \strng{authorfullhash}{0f9db30049824874a9fa9ba88f3e92ae}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE symposium on VLSI Circuits}
+      \field{title}{SOT-MRAM 300mm integration for low power and ultrafast embedded memories}
+      \field{year}{2018}
+      \field{pages}{81\bibrangedash 82}
+      \range{pages}{2}
+    \endentry
+    \entry{han_materials_2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=670be43f1570f3f4d2548b4a20eb97b7}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiufeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=9dfc9a6950ba9618bb439bfde3d179b6}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Caihua},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ab8e902b136bfbbe091271372348f84f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Guoqiang},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{64cb417c2e014860e99b0d270392d808}
+      \strng{fullhash}{64cb417c2e014860e99b0d270392d808}
+      \strng{bibnamehash}{64cb417c2e014860e99b0d270392d808}
+      \strng{authorbibnamehash}{64cb417c2e014860e99b0d270392d808}
+      \strng{authornamehash}{64cb417c2e014860e99b0d270392d808}
+      \strng{authorfullhash}{64cb417c2e014860e99b0d270392d808}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Spintronics, that is, the utilization of electron spin to enrich the functionality of microelectronics, has led to the inception of numerous novel devices, particularly magnetic random-access memory ({MRAM}). Over the last decade, signiﬁcant effort has been devoted to magnetization manipulation using spin-orbit torque ({SOT}), which shows great promise for ultrafast and energy-efﬁcient {MRAM}. In this Perspective, we summarize the latest progress in the study of {SOT} and highlight some of the technical challenges facing the development of practical {SOT} devices. After introducing the basic concepts of {SOT} and its relevance for magnetization switching, we will focus on several methods to realize deterministic {SOT} switching in the absence of an external ﬁeld, which is a requirement for practical {SOT} devices. Additionally, we summarize the materials used in {SOT} devices. The ﬁnal section is devoted to the most important recent advances in the application of {SOT} devices, including {SOT}-{MRAM}, spin logic, spin Hall nano-oscillators, and neuromorphic devices.}
+      \field{day}{3}
+      \field{issn}{0003-6951, 1077-3118}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{18}
+      \field{title}{Materials, physics, and devices of spin–orbit torque effect}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{118}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{180401}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/5.0054652
+      \endverb
+      \verb{file}
+      \verb Han 等 - 2021 - Materials, physics, and devices of spin–orbit torq.pdf:/Users/xbunax/Zotero/storage/4CPGZUV6/Han 等 - 2021 - Materials, physics, and devices of spin–orbit torq.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/apl/article/118/18/180401/978721/Materials-physics-and-devices-of-spin-orbit-torque
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/apl/article/118/18/180401/978721/Materials-physics-and-devices-of-spin-orbit-torque
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
